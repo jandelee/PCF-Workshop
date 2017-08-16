@@ -11,6 +11,10 @@ For a simple demonstration to deploy this app to Cloud Foundry:
    Type in "dir" to see the files that were downloaded from git
 
 2. Use the PCF Apps Manager: Log into the desired Cloud Foundry endpoint;
+
+   If using a .io PCF account:  
+   Navigate to [https://login.system.dev.east.paas.geointservices.io](https://login.system.dev.east.paas.geointservices.io)
+
 3. Use the PCF Command Line Interface (CLI) from your shell tool: Log into the desired Cloud Foundry endpoint;
 4. Select an Org (if needed) and a Space;
 5. From your project's directory, type: cf push
