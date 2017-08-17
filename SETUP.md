@@ -1,3 +1,5 @@
+###The following steps are needed to prepare your environment to deploy the PCF application:
+
 1. Install the PCF CLI
 
    Navigate to [https://docs.run.pivotal.io/cf-cli/install-go-cli.html](https://docs.run.pivotal.io/cf-cli/install-go-cli.html)  
