@@ -6,9 +6,8 @@ For a simple demonstration to deploy this app to Cloud Foundry:
 
    Navigate to the [OpenLayers Vector Tile project](https://github.com/lnguyen2341/OL_Vector_Tile) in git  
    Click the green **Clone or Download** button, and then click the **Copy to clipboard** icon  
-   In PowerShell, type in "git clone " and then paste in the contents of the clipboard and press <Enter>  
-   Type in "cd OL_Vector_Tile"  
-   Type in "dir" to see the files that were downloaded from git
+   > git clone <paste in clipboard contents>
+   > "cd OL_Vector_Tile"
 
 2. Use the PCF Apps Manager: Log into the desired Cloud Foundry endpoint;
 
