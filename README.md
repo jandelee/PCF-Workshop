@@ -23,10 +23,8 @@ For a simple demonstration to deploy this app to Cloud Foundry:
    If using a PWS PCF account:  
    > cf login -a https://api.run.pivotal.io
 
-   for Email>, enter your .io PCF username  
-   for Password>, enter your .io PCF password  
-   If prompted for an org, select an appropriate org  
-   If prompted for a space, enter an appropriate space  
+   for Email>, enter your PCF username  
+   for Password>, enter your PCF password  
 
 4. Select an Org (if needed) and a Space;
 5. From your project's directory, type: cf push
