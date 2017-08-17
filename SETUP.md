@@ -1,4 +1,4 @@
-###The following steps are needed to prepare your environment to deploy the PCF application:
+### The following steps are needed to prepare your environment to deploy the PCF application:
 
 1. Install the PCF CLI
 
