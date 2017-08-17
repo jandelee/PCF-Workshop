@@ -10,6 +10,8 @@
 
 3. If you do not have a .io or .mil PCF account, sign up for a free PWS account
 
-   Navigate to [https://run.pivotal.io](https://run.pivotal.io)
+   Navigate to [https://run.pivotal.io](https://run.pivotal.io)  
+   Click on the **SIGN UP FOR FREE** button
+   
    
    
