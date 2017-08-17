@@ -19,10 +19,10 @@ For a simple demonstration to deploy this app to Cloud Foundry:
 
    If using an .io PCF account:
    > cf api https://api.system.dev.east.paas.geointservices.io  
-   If using a PWS PCF account:
+   If using a PWS PCF account:  
    > cf api https://api.run.pivotal.io
    
-   cf login -a https://api.system.dev.east.paas.geointservices.io  
+   > cf login  
    for Email>, enter your .io PCF username  
    for Password>, enter your .io PCF password  
    If prompted for an org, select an appropriate org  
