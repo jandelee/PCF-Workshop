@@ -18,12 +18,11 @@ For a simple demonstration to deploy this app to Cloud Foundry:
 3. Use the PCF Command Line Interface (CLI) from your shell tool: Log into the desired Cloud Foundry endpoint;
 
    If using an .io PCF account:  
-   > cf api https://api.system.dev.east.paas.geointservices.io
+   > cf login -a https://api.system.dev.east.paas.geointservices.io
 
    If using a PWS PCF account:  
-   > cf api https://api.run.pivotal.io
-   
-   > cf login  
+   > cf login -a https://api.run.pivotal.io
+
    for Email>, enter your .io PCF username  
    for Password>, enter your .io PCF password  
    If prompted for an org, select an appropriate org  
