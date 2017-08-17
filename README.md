@@ -29,5 +29,6 @@ For a simple demonstration to deploy this app to Cloud Foundry:
    for Password>, enter your PCF password  
 
 4. Select an Org (if needed) and a Space;
-5. From your project's directory, type: cf push
+5. From your project's directory:  
+   > cf push
 6. Retrieve your app's URI from AppsManager, et voila!
