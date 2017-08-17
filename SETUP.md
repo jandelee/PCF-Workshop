@@ -1,7 +1,7 @@
 1. Install the PCF CLI
 
    Navigate to [https://docs.run.pivotal.io/cf-cli/install-go-cli.html](https://docs.run.pivotal.io/cf-cli/install-go-cli.html)  
-   Follow the directions appropriate for the operating system you are running on your laptop.
+   Follow the directions appropriate for the operating system of your laptop.
    
 2. Install git
 
